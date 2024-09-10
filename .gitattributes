@@ -1,0 +1,4 @@
+physx/bin/win.x86_64.vc143.md/debug/PhysXGpu_64.dll filter=lfs diff=lfs merge=lfs -text
+physx/bin/win.x86_64.vc143.md/checked/PhysXGpu_64.dll filter=lfs diff=lfs merge=lfs -text
+physx/bin/win.x86_64.vc143.md/profile/PhysXGpu_64.dll filter=lfs diff=lfs merge=lfs -text
+physx/bin/win.x86_64.vc143.md/release/PhysXGpu_64.dll filter=lfs diff=lfs merge=lfs -text
